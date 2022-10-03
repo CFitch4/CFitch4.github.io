@@ -1,7 +1,50 @@
 html, body {
   margin: 0;
-  padding: 0;
+  padding: 25px;
+  padding-bottom: 25px;
+  background-image: linear-gradient(to right, grey , blue);
 }
 canvas {
   display: block;
+}
+#lights{
+  width:500px
+}
+#new{
+  width:700px
+}
+#wheels{
+  width:700px
+}
+#carplay{
+  width:700px
+}
+#now{
+  width:700px
+}
+#led{
+  width:700px
+}
+#clear{
+  width:700px
+}
+#red{
+  width:700px
+}
+#HOff{
+  width:700px
+}
+#HOn{
+  width:700px
+}
+#SDdoor{
+  width:700px
+}
+#website{
+  width:80vw;
+  left:10vw;
+  position: relative;
+}
+#resume{
+  width:700px
 }
